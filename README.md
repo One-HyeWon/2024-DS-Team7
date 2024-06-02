@@ -9,7 +9,8 @@ This project aims to develop a model that predicts the suitability of operating 
 ### Data
 
 * **Data Source:** Seoul Subway Line-Specific Station-Specific Hourly Boarding and Alighting Passenger Information (CSV file)
-* **Data Description:** Contains hourly passenger boarding and alighting information for each station on Seoul subway lines 1 through 8, spanning 10 years (January 2013 to December 2022).
+* **Data Description:** Contains hourly passenger boarding and alighting information for each station on Seoul subway lines 1 through 8, spanning 10 years (January 2014 to Feburary 2024).
+[서울시 열린 데이터 광장 - 서울시 지하철 호선별 역별 시간대별 승하차 인원 정보.csv](https://data.seoul.go.kr/dataList/OA-12252/S/1/datasetView.do)
 
 ### Methodology
 
